@@ -26,6 +26,7 @@
 
 #### 使用说明
 
+![系统介绍](https://images.gitee.com/uploads/images/2021/0518/182750_7511b943_100581.jpeg "666666.jpg")
 
 ![商城首页](https://images.gitee.com/uploads/images/2021/0518/180510_39763b11_100581.gif "首页.gif")
 
